@@ -1,6 +1,6 @@
 # Playwright Testing
 
-Playwright testing is an <b>end-to-end testing</b> library used for modern web apps. This is different from using testing unit testing libraries, such as Jest, to test web apps. This project is a basic implemenation of playwright to end-to-end test the google landing page along with coding along with the starter documentation. 
+Playwright testing is an <b>end-to-end testing</b> library used for modern web apps. This is different from using unit testing libraries, such as Jest, to test web apps. This project is a basic implemenation of playwright to end-to-end test the google landing page along with coding along with the starter documentation. 
 
 ## Testing The Google Homepage
 
